@@ -4,7 +4,7 @@
 
 * Mac users :  Create a directory named KollaVarsham inside ~/Documents/Arduino/libraries/ . Then copy the file [KollaVarsham.h](../master/src/KollaVarsham.h) into this newly created directory
 * Windows users : Create a directory named KollaVarsham inside My Documents\Arduino\libraries\ . Then copy the file  [KollaVarsham.h](../master/src/KollaVarsham.h) into this newly created directory
-* Linux users : Create a directory named KollaVarsham inside ~/Arduino/libraries/ . Then copy the file  [Kollavarsham.h](../master/src/Kollavarsham.h) into this newly created directory
+* Linux users : Create a directory named KollaVarsham inside ~/Arduino/libraries/ . Then copy the file  [Kollavarsham.h](../master/src/KollaVarsham.h) into this newly created directory
 
 
 ## Usage
