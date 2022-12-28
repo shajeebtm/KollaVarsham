@@ -1,4 +1,4 @@
-# Kollavarsham : Arduino  library  for converting Gregorian date to Kollavarsham Malayalam calendar date
+# Kollavarsham : Arduino  library  for converting Gregorian date to Malayalam Kollavarsham calendar date
 
 ## Library setup
 
