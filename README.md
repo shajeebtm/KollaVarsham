@@ -9,7 +9,7 @@
 
 ## Usage
 
-      # <indlcude> KollaVarsham.h
+      # <indlcude> KollaVarsham.h         // include library in your code
       KollaVarsham my_kv;                 // create an object
       my_kv.fromGregorian(yyyy,mm,dd);    // invoke the interface to calculate Kollavarsham date with given date in integer form
       int kyyyy = my_kv.getYear();        // get Kollavarsham Year
