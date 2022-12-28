@@ -29,8 +29,8 @@ Refer to [example](example) for a sample code.
 ### Reference
 This arduino  implementation of the Kollavarsham is a port of the Perl implementation of the Pancanga (Hindu Almanac) by M. Fushimi and M. Yano   
 which is docuemnted at following locations                                  
-      _http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/message314.html                
-      _http://www.cc.kyoto-su.ac.jp/~yanom/sanskrit/pancanga/pancanga3.14          
+      _http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/message314.html_             
+      _http://www.cc.kyoto-su.ac.jp/~yanom/sanskrit/pancanga/pancanga3.14_          
                                                           
 In addition I would like to extend my sincere thanks to kollavarsham calendar team                                                                 
       _https://kollavarsham.org                                          
