@@ -18,7 +18,9 @@
 
 ## Month
 
-The library returns month between from 1 through 12 . Corresponding month names are
-_"Chingam" , "Kanni", "Thulaam", "Vrishchikam", "Dhanu", "Makaram", "Kumbham", "Meenam", "Medam", "Idavam", "Mithunam", "Karkkidakam"}_
+The library returns month number between 1 through 12 . Corresponding month names are
 
+_"Chingam" , "Kanni", "Thulaam", "Vrishchikam", "Dhanu", "Makaram", "Kumbham", "Meenam", "Medam", "Idavam", "Mithunam", "Karkkidakam"_
+
+## Example
 Refer to [example](example) for a sample code.
