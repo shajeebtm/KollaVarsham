@@ -31,7 +31,7 @@ This arduino  implementation of the Kollavarsham is a port of the Perl implement
 - _http://www.cc.kyoto-su.ac.jp/~yanom/pancanga/message314.html_             
 - _http://www.cc.kyoto-su.ac.jp/~yanom/sanskrit/pancanga/pancanga3.14_          
                                                           
-In addition I would like to extend my sincere thanks to kollavarsham calendar team                                                                 
+In addition I would like to extend my sincere thanks to kollavarsham calendar team                                                               - -
 - _https://github.com/kollavarsham/kollavarsham-js_
       
 Please refer https://en.wikipedia.org/wiki/Malayalam_calendar for details of the Malayalam Kollavarsham calendar    
