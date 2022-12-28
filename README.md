@@ -15,5 +15,10 @@
       int kyyyy = my_kv.getYear();        // get Kollavarsham Year
       int kmm = my_kv.getMonth();         // get Kollavarsham Month
       int kdd = my_kv.getDay();           // get Kollavarsham Date
-  
+
+## Month
+
+The library returns month between from 1 through 12 . Corresponding month names are
+_"Chingam" , "Kanni", "Thulaam", "Vrishchikam", "Dhanu", "Makaram", "Kumbham", "Meenam", "Medam", "Idavam", "Mithunam", "Karkkidakam"}_
+
 Refer to [example](example) for a sample code.
