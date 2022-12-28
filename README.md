@@ -7,7 +7,7 @@
 * Linux users : Create a directory named Kollavarsham inside ~/Arduino/libraries/ . Then copy the file  [Kollavarsham.h](../master/src/Kollavarsham.h) into this newly created directory
 
 
-## Basic usage
+## Usage
 
       # <indlcude> KollaVarsham.h
       KollaVarsham my_kv;                 // create an object
